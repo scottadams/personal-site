@@ -1,2 +1,2 @@
 # personal-site
-Personal site, hosted at scottadams.co
+Placeholder for personal site, hosted at scottadams.co
